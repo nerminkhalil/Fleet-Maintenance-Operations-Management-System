@@ -1,0 +1,8 @@
+{
+  "name": "Fleet Maintenance Tracker",
+  "description": "An application for fleet operations to create maintenance tickets and for the maintenance team to track and resolve them, calculating the time taken for each ticket.",
+  "version": "1.1.0",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
